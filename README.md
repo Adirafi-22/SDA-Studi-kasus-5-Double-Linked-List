@@ -1,7 +1,7 @@
 # SDA-Studi-kasus-6-Double-Linked-List
 Laporan Tugas SDA studi kasus 6 Double Linked List
 
-****Lesson Learn***
+***Lesson Learn***
 
 Melalui program ini, saya belajar bagaimana sebuah struktur data yang kompleks dan dinamis dapat dibangun tanpa menggunakan array, yaitu dengan mengandalkan double linked list. Tidak seperti array yang bersifat statis dan memiliki ukuran tetap, double linked list memungkinkan kita untuk menyimpan data dalam jumlah tak terbatas dengan cara menyambungkan node satu per satu secara dinamis menggunakan pointer next dan prev.
 
